@@ -177,7 +177,7 @@
                       "alerts-slack-prometheus-alertmanager-open-liberty"]
         },
         {
-            "name": "Jakarta EE",
+            "name": "Jakarta_EE",
             "posts": ["jakarta-ee-9-1-compatibility","testing-jakarta-Arquillian-redirect",
                       "metrics-jee9-21006-beta", "ldap-multipart-21005",
                       "dev-mode-with-aot","JAXRS-multipart-payloads-21005-beta",
